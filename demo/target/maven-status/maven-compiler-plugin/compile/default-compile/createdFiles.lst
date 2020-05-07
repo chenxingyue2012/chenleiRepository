@@ -1,0 +1,15 @@
+com\asisinfo\datasource\demo\config\MyBatisConfig$1.class
+com\asisinfo\datasource\demo\domain\InitParam.class
+com\asisinfo\datasource\demo\mapper\RobotInfoMapper.class
+com\asisinfo\datasource\demo\component\InitParamResolver.class
+com\asisinfo\datasource\demo\dao\impl\RobotInfoDaoImpl.class
+com\asisinfo\datasource\demo\service\RobotInfoService.class
+com\asisinfo\datasource\demo\config\DataSourceConfig.class
+com\asisinfo\datasource\demo\config\WebConfig.class
+com\asisinfo\datasource\demo\DemoApplication.class
+com\asisinfo\datasource\demo\config\MyBatisConfig.class
+com\asisinfo\datasource\demo\dao\base\impl\BaseDaoImpl.class
+com\asisinfo\datasource\demo\dao\RobotInfoDao.class
+com\asisinfo\datasource\demo\domain\RobotInfo.class
+com\asisinfo\datasource\demo\controller\RobotInfoController.class
+com\asisinfo\datasource\demo\domain\ResponseResult.class
